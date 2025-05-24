@@ -1,2 +1,2 @@
-# Haha-AI-super-app
+# Hanu-AI-super-app
 My all-in-one All tool
